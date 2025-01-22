@@ -3,4 +3,4 @@ This is an example for seam correction algorithm for welding collaborative robot
 
 <br />
 Link for result<br />
-(https://youtu.be/xVg35S1p3ZU?si=YFUR14oE4bRD6qeG "Example of simulation")
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/xVg35S1p3ZU/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAXx_TqhVNlQ-VtIi5In2n8Z1TMMA)](https://youtu.be/xVg35S1p3ZU?si=YFUR14oE4bRD6qeG "Example of simulation")
